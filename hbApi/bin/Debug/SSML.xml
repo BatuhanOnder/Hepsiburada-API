@@ -1,0 +1,1091 @@
+<?xml version="1.0"?>
+<Result xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TotalCount>34</TotalCount>
+  <Limit>34</Limit>
+  <Offset>0</Offset>
+  <Listings>
+    <Listing>
+      <UniqueIdentifier />
+      <HepsiburadaSku>AILEBS165880</HepsiburadaSku>
+      <MerchantSku>AILEBS165880</MerchantSku>
+      <Price>0</Price>
+      <AvailableStock>0</AvailableStock>
+      <DispatchTime>5</DispatchTime>
+      <CargoCompany1>Aras Kargo</CargoCompany1>
+      <CargoCompany2 />
+      <CargoCompany3 />
+      <ShippingAddressLabel>BIRINCIL</ShippingAddressLabel>
+      <ClaimAddressLabel>BIRINCIL</ClaimAddressLabel>
+      <MaximumPurchasableQuantity>0</MaximumPurchasableQuantity>
+      <MinimumPurchasableQuantity>0</MinimumPurchasableQuantity>
+      <Pricings />
+      <IsSalable>false</IsSalable>
+      <CustomizableProperties />
+      <DeactivationReasons>
+        <DeactivationReason>PriceIsLessThanOrEqualToZero</DeactivationReason>
+        <DeactivationReason>StockIsLessThanOrEqualToZero</DeactivationReason>
+      </DeactivationReasons>
+      <IsSuspended>false</IsSuspended>
+      <IsLocked>false</IsLocked>
+      <LockReasons />
+      <IsFrozen>false</IsFrozen>
+      <CommissionRate>15</CommissionRate>
+      <BuyboxOrder xsi:nil="true" />
+      <AvailableWarehouses />
+      <IsFulfilledByHB>false</IsFulfilledByHB>
+    </Listing>
+    <Listing>
+      <UniqueIdentifier />
+      <HepsiburadaSku>AYKNO1T0CCF4GC3-40</HepsiburadaSku>
+      <MerchantSku>2614</MerchantSku>
+      <Price>0</Price>
+      <AvailableStock>0</AvailableStock>
+      <DispatchTime>0</DispatchTime>
+      <CargoCompany1>Aras Kargo</CargoCompany1>
+      <CargoCompany2 />
+      <CargoCompany3 />
+      <ShippingAddressLabel>BIRINCIL</ShippingAddressLabel>
+      <ClaimAddressLabel>BIRINCIL</ClaimAddressLabel>
+      <MaximumPurchasableQuantity>0</MaximumPurchasableQuantity>
+      <MinimumPurchasableQuantity>0</MinimumPurchasableQuantity>
+      <Pricings />
+      <IsSalable>false</IsSalable>
+      <CustomizableProperties />
+      <DeactivationReasons>
+        <DeactivationReason>PriceIsLessThanOrEqualToZero</DeactivationReason>
+        <DeactivationReason>StockIsLessThanOrEqualToZero</DeactivationReason>
+        <DeactivationReason>PriceIsLessThanThreshold</DeactivationReason>
+      </DeactivationReasons>
+      <IsSuspended>false</IsSuspended>
+      <IsLocked>false</IsLocked>
+      <LockReasons />
+      <IsFrozen>false</IsFrozen>
+      <CommissionRate>15</CommissionRate>
+      <BuyboxOrder xsi:nil="true" />
+      <AvailableWarehouses />
+      <IsFulfilledByHB>false</IsFulfilledByHB>
+    </Listing>
+    <Listing>
+      <UniqueIdentifier />
+      <HepsiburadaSku>AYKNO1T0CCF4GC3-41</HepsiburadaSku>
+      <MerchantSku>2615</MerchantSku>
+      <Price>0</Price>
+      <AvailableStock>0</AvailableStock>
+      <DispatchTime>0</DispatchTime>
+      <CargoCompany1>Aras Kargo</CargoCompany1>
+      <CargoCompany2 />
+      <CargoCompany3 />
+      <ShippingAddressLabel>BIRINCIL</ShippingAddressLabel>
+      <ClaimAddressLabel>BIRINCIL</ClaimAddressLabel>
+      <MaximumPurchasableQuantity>0</MaximumPurchasableQuantity>
+      <MinimumPurchasableQuantity>0</MinimumPurchasableQuantity>
+      <Pricings />
+      <IsSalable>false</IsSalable>
+      <CustomizableProperties />
+      <DeactivationReasons>
+        <DeactivationReason>PriceIsLessThanOrEqualToZero</DeactivationReason>
+        <DeactivationReason>StockIsLessThanOrEqualToZero</DeactivationReason>
+        <DeactivationReason>PriceIsLessThanThreshold</DeactivationReason>
+      </DeactivationReasons>
+      <IsSuspended>false</IsSuspended>
+      <IsLocked>false</IsLocked>
+      <LockReasons />
+      <IsFrozen>false</IsFrozen>
+      <CommissionRate>15</CommissionRate>
+      <BuyboxOrder xsi:nil="true" />
+      <AvailableWarehouses />
+      <IsFulfilledByHB>false</IsFulfilledByHB>
+    </Listing>
+    <Listing>
+      <UniqueIdentifier />
+      <HepsiburadaSku>AYKNO1T0CCF4GC3-42</HepsiburadaSku>
+      <MerchantSku>3729</MerchantSku>
+      <Price>0</Price>
+      <AvailableStock>0</AvailableStock>
+      <DispatchTime>0</DispatchTime>
+      <CargoCompany1>Aras Kargo</CargoCompany1>
+      <CargoCompany2 />
+      <CargoCompany3 />
+      <ShippingAddressLabel>BIRINCIL</ShippingAddressLabel>
+      <ClaimAddressLabel>BIRINCIL</ClaimAddressLabel>
+      <MaximumPurchasableQuantity>0</MaximumPurchasableQuantity>
+      <MinimumPurchasableQuantity>0</MinimumPurchasableQuantity>
+      <Pricings />
+      <IsSalable>false</IsSalable>
+      <CustomizableProperties />
+      <DeactivationReasons>
+        <DeactivationReason>PriceIsLessThanOrEqualToZero</DeactivationReason>
+        <DeactivationReason>StockIsLessThanOrEqualToZero</DeactivationReason>
+        <DeactivationReason>PriceIsLessThanThreshold</DeactivationReason>
+      </DeactivationReasons>
+      <IsSuspended>false</IsSuspended>
+      <IsLocked>false</IsLocked>
+      <LockReasons />
+      <IsFrozen>false</IsFrozen>
+      <CommissionRate>15</CommissionRate>
+      <BuyboxOrder xsi:nil="true" />
+      <AvailableWarehouses />
+      <IsFulfilledByHB>false</IsFulfilledByHB>
+    </Listing>
+    <Listing>
+      <UniqueIdentifier />
+      <HepsiburadaSku>AYKNO1T0CCF4GC3-43</HepsiburadaSku>
+      <MerchantSku>3728</MerchantSku>
+      <Price>0</Price>
+      <AvailableStock>0</AvailableStock>
+      <DispatchTime>0</DispatchTime>
+      <CargoCompany1>Aras Kargo</CargoCompany1>
+      <CargoCompany2 />
+      <CargoCompany3 />
+      <ShippingAddressLabel>BIRINCIL</ShippingAddressLabel>
+      <ClaimAddressLabel>BIRINCIL</ClaimAddressLabel>
+      <MaximumPurchasableQuantity>0</MaximumPurchasableQuantity>
+      <MinimumPurchasableQuantity>0</MinimumPurchasableQuantity>
+      <Pricings />
+      <IsSalable>false</IsSalable>
+      <CustomizableProperties />
+      <DeactivationReasons>
+        <DeactivationReason>PriceIsLessThanOrEqualToZero</DeactivationReason>
+        <DeactivationReason>StockIsLessThanOrEqualToZero</DeactivationReason>
+        <DeactivationReason>PriceIsLessThanThreshold</DeactivationReason>
+      </DeactivationReasons>
+      <IsSuspended>false</IsSuspended>
+      <IsLocked>false</IsLocked>
+      <LockReasons />
+      <IsFrozen>false</IsFrozen>
+      <CommissionRate>15</CommissionRate>
+      <BuyboxOrder xsi:nil="true" />
+      <AvailableWarehouses />
+      <IsFulfilledByHB>false</IsFulfilledByHB>
+    </Listing>
+    <Listing>
+      <UniqueIdentifier />
+      <HepsiburadaSku>AYKNO1T0CCF4GC3-44</HepsiburadaSku>
+      <MerchantSku>2613</MerchantSku>
+      <Price>0</Price>
+      <AvailableStock>0</AvailableStock>
+      <DispatchTime>0</DispatchTime>
+      <CargoCompany1>Aras Kargo</CargoCompany1>
+      <CargoCompany2 />
+      <CargoCompany3 />
+      <ShippingAddressLabel>BIRINCIL</ShippingAddressLabel>
+      <ClaimAddressLabel>BIRINCIL</ClaimAddressLabel>
+      <MaximumPurchasableQuantity>0</MaximumPurchasableQuantity>
+      <MinimumPurchasableQuantity>0</MinimumPurchasableQuantity>
+      <Pricings />
+      <IsSalable>false</IsSalable>
+      <CustomizableProperties />
+      <DeactivationReasons>
+        <DeactivationReason>PriceIsLessThanOrEqualToZero</DeactivationReason>
+        <DeactivationReason>StockIsLessThanOrEqualToZero</DeactivationReason>
+        <DeactivationReason>PriceIsLessThanThreshold</DeactivationReason>
+      </DeactivationReasons>
+      <IsSuspended>false</IsSuspended>
+      <IsLocked>false</IsLocked>
+      <LockReasons />
+      <IsFrozen>false</IsFrozen>
+      <CommissionRate>15</CommissionRate>
+      <BuyboxOrder xsi:nil="true" />
+      <AvailableWarehouses />
+      <IsFulfilledByHB>false</IsFulfilledByHB>
+    </Listing>
+    <Listing>
+      <UniqueIdentifier />
+      <HepsiburadaSku>AYKNO1T0CCF4GC3425</HepsiburadaSku>
+      <MerchantSku>2616</MerchantSku>
+      <Price>0</Price>
+      <AvailableStock>0</AvailableStock>
+      <DispatchTime>0</DispatchTime>
+      <CargoCompany1>Aras Kargo</CargoCompany1>
+      <CargoCompany2 />
+      <CargoCompany3 />
+      <ShippingAddressLabel>BIRINCIL</ShippingAddressLabel>
+      <ClaimAddressLabel>BIRINCIL</ClaimAddressLabel>
+      <MaximumPurchasableQuantity>0</MaximumPurchasableQuantity>
+      <MinimumPurchasableQuantity>0</MinimumPurchasableQuantity>
+      <Pricings />
+      <IsSalable>false</IsSalable>
+      <CustomizableProperties />
+      <DeactivationReasons>
+        <DeactivationReason>PriceIsLessThanOrEqualToZero</DeactivationReason>
+        <DeactivationReason>StockIsLessThanOrEqualToZero</DeactivationReason>
+        <DeactivationReason>PriceIsLessThanThreshold</DeactivationReason>
+      </DeactivationReasons>
+      <IsSuspended>false</IsSuspended>
+      <IsLocked>false</IsLocked>
+      <LockReasons />
+      <IsFrozen>false</IsFrozen>
+      <CommissionRate>15</CommissionRate>
+      <BuyboxOrder xsi:nil="true" />
+      <AvailableWarehouses />
+      <IsFulfilledByHB>false</IsFulfilledByHB>
+    </Listing>
+    <Listing>
+      <UniqueIdentifier />
+      <HepsiburadaSku>AYKNO2T0CCH9EB9-36</HepsiburadaSku>
+      <MerchantSku>1077</MerchantSku>
+      <Price>0</Price>
+      <AvailableStock>0</AvailableStock>
+      <DispatchTime>0</DispatchTime>
+      <CargoCompany1>Aras Kargo</CargoCompany1>
+      <CargoCompany2 />
+      <CargoCompany3 />
+      <ShippingAddressLabel>BIRINCIL</ShippingAddressLabel>
+      <ClaimAddressLabel>BIRINCIL</ClaimAddressLabel>
+      <MaximumPurchasableQuantity>0</MaximumPurchasableQuantity>
+      <MinimumPurchasableQuantity>0</MinimumPurchasableQuantity>
+      <Pricings />
+      <IsSalable>false</IsSalable>
+      <CustomizableProperties />
+      <DeactivationReasons>
+        <DeactivationReason>PriceIsLessThanOrEqualToZero</DeactivationReason>
+        <DeactivationReason>StockIsLessThanOrEqualToZero</DeactivationReason>
+        <DeactivationReason>PriceIsLessThanThreshold</DeactivationReason>
+      </DeactivationReasons>
+      <IsSuspended>false</IsSuspended>
+      <IsLocked>false</IsLocked>
+      <LockReasons />
+      <IsFrozen>false</IsFrozen>
+      <CommissionRate>15</CommissionRate>
+      <BuyboxOrder xsi:nil="true" />
+      <AvailableWarehouses />
+      <IsFulfilledByHB>false</IsFulfilledByHB>
+    </Listing>
+    <Listing>
+      <UniqueIdentifier />
+      <HepsiburadaSku>AYKNO2T0CCH9EB9-39</HepsiburadaSku>
+      <MerchantSku>2622</MerchantSku>
+      <Price>0</Price>
+      <AvailableStock>0</AvailableStock>
+      <DispatchTime>0</DispatchTime>
+      <CargoCompany1>Aras Kargo</CargoCompany1>
+      <CargoCompany2 />
+      <CargoCompany3 />
+      <ShippingAddressLabel>BIRINCIL</ShippingAddressLabel>
+      <ClaimAddressLabel>BIRINCIL</ClaimAddressLabel>
+      <MaximumPurchasableQuantity>0</MaximumPurchasableQuantity>
+      <MinimumPurchasableQuantity>0</MinimumPurchasableQuantity>
+      <Pricings />
+      <IsSalable>false</IsSalable>
+      <CustomizableProperties />
+      <DeactivationReasons>
+        <DeactivationReason>PriceIsLessThanOrEqualToZero</DeactivationReason>
+        <DeactivationReason>StockIsLessThanOrEqualToZero</DeactivationReason>
+        <DeactivationReason>PriceIsLessThanThreshold</DeactivationReason>
+      </DeactivationReasons>
+      <IsSuspended>false</IsSuspended>
+      <IsLocked>false</IsLocked>
+      <LockReasons />
+      <IsFrozen>false</IsFrozen>
+      <CommissionRate>15</CommissionRate>
+      <BuyboxOrder xsi:nil="true" />
+      <AvailableWarehouses />
+      <IsFulfilledByHB>false</IsFulfilledByHB>
+    </Listing>
+    <Listing>
+      <UniqueIdentifier />
+      <HepsiburadaSku>AYKNO2T0CCH9EB9385</HepsiburadaSku>
+      <MerchantSku>2621</MerchantSku>
+      <Price>0</Price>
+      <AvailableStock>0</AvailableStock>
+      <DispatchTime>0</DispatchTime>
+      <CargoCompany1>Aras Kargo</CargoCompany1>
+      <CargoCompany2 />
+      <CargoCompany3 />
+      <ShippingAddressLabel>BIRINCIL</ShippingAddressLabel>
+      <ClaimAddressLabel>BIRINCIL</ClaimAddressLabel>
+      <MaximumPurchasableQuantity>0</MaximumPurchasableQuantity>
+      <MinimumPurchasableQuantity>0</MinimumPurchasableQuantity>
+      <Pricings />
+      <IsSalable>false</IsSalable>
+      <CustomizableProperties />
+      <DeactivationReasons>
+        <DeactivationReason>PriceIsLessThanOrEqualToZero</DeactivationReason>
+        <DeactivationReason>StockIsLessThanOrEqualToZero</DeactivationReason>
+        <DeactivationReason>PriceIsLessThanThreshold</DeactivationReason>
+      </DeactivationReasons>
+      <IsSuspended>false</IsSuspended>
+      <IsLocked>false</IsLocked>
+      <LockReasons />
+      <IsFrozen>false</IsFrozen>
+      <CommissionRate>15</CommissionRate>
+      <BuyboxOrder xsi:nil="true" />
+      <AvailableWarehouses />
+      <IsFulfilledByHB>false</IsFulfilledByHB>
+    </Listing>
+    <Listing>
+      <UniqueIdentifier />
+      <HepsiburadaSku>HBV00000026RN</HepsiburadaSku>
+      <MerchantSku>0071603103009</MerchantSku>
+      <Price>0</Price>
+      <AvailableStock>0</AvailableStock>
+      <DispatchTime>0</DispatchTime>
+      <CargoCompany1>Aras Kargo</CargoCompany1>
+      <CargoCompany2 />
+      <CargoCompany3 />
+      <ShippingAddressLabel>BIRINCIL</ShippingAddressLabel>
+      <ClaimAddressLabel>BIRINCIL</ClaimAddressLabel>
+      <MaximumPurchasableQuantity>0</MaximumPurchasableQuantity>
+      <MinimumPurchasableQuantity>0</MinimumPurchasableQuantity>
+      <Pricings />
+      <IsSalable>false</IsSalable>
+      <CustomizableProperties />
+      <DeactivationReasons>
+        <DeactivationReason>PriceIsLessThanOrEqualToZero</DeactivationReason>
+        <DeactivationReason>StockIsLessThanOrEqualToZero</DeactivationReason>
+        <DeactivationReason>PriceIsLessThanThreshold</DeactivationReason>
+      </DeactivationReasons>
+      <IsSuspended>false</IsSuspended>
+      <IsLocked>false</IsLocked>
+      <LockReasons />
+      <IsFrozen>false</IsFrozen>
+      <CommissionRate>15</CommissionRate>
+      <BuyboxOrder xsi:nil="true" />
+      <AvailableWarehouses />
+      <IsFulfilledByHB>false</IsFulfilledByHB>
+    </Listing>
+    <Listing>
+      <UniqueIdentifier />
+      <HepsiburadaSku>HBV000000900B</HepsiburadaSku>
+      <MerchantSku>0071603032897</MerchantSku>
+      <Price>0</Price>
+      <AvailableStock>0</AvailableStock>
+      <DispatchTime>0</DispatchTime>
+      <CargoCompany1>Aras Kargo</CargoCompany1>
+      <CargoCompany2 />
+      <CargoCompany3 />
+      <ShippingAddressLabel>BIRINCIL</ShippingAddressLabel>
+      <ClaimAddressLabel>BIRINCIL</ClaimAddressLabel>
+      <MaximumPurchasableQuantity>0</MaximumPurchasableQuantity>
+      <MinimumPurchasableQuantity>0</MinimumPurchasableQuantity>
+      <Pricings />
+      <IsSalable>false</IsSalable>
+      <CustomizableProperties />
+      <DeactivationReasons>
+        <DeactivationReason>PriceIsLessThanOrEqualToZero</DeactivationReason>
+        <DeactivationReason>StockIsLessThanOrEqualToZero</DeactivationReason>
+        <DeactivationReason>PriceIsLessThanThreshold</DeactivationReason>
+      </DeactivationReasons>
+      <IsSuspended>false</IsSuspended>
+      <IsLocked>false</IsLocked>
+      <LockReasons />
+      <IsFrozen>false</IsFrozen>
+      <CommissionRate>15</CommissionRate>
+      <BuyboxOrder xsi:nil="true" />
+      <AvailableWarehouses />
+      <IsFulfilledByHB>false</IsFulfilledByHB>
+    </Listing>
+    <Listing>
+      <UniqueIdentifier />
+      <HepsiburadaSku>HBV000000AFO4</HepsiburadaSku>
+      <MerchantSku>8456310000001</MerchantSku>
+      <Price>0</Price>
+      <AvailableStock>0</AvailableStock>
+      <DispatchTime>0</DispatchTime>
+      <CargoCompany1>Aras Kargo</CargoCompany1>
+      <CargoCompany2 />
+      <CargoCompany3 />
+      <ShippingAddressLabel>BIRINCIL</ShippingAddressLabel>
+      <ClaimAddressLabel>BIRINCIL</ClaimAddressLabel>
+      <MaximumPurchasableQuantity>0</MaximumPurchasableQuantity>
+      <MinimumPurchasableQuantity>0</MinimumPurchasableQuantity>
+      <Pricings />
+      <IsSalable>false</IsSalable>
+      <CustomizableProperties />
+      <DeactivationReasons>
+        <DeactivationReason>PriceIsLessThanOrEqualToZero</DeactivationReason>
+        <DeactivationReason>StockIsLessThanOrEqualToZero</DeactivationReason>
+        <DeactivationReason>PriceIsLessThanThreshold</DeactivationReason>
+      </DeactivationReasons>
+      <IsSuspended>false</IsSuspended>
+      <IsLocked>false</IsLocked>
+      <LockReasons />
+      <IsFrozen>false</IsFrozen>
+      <CommissionRate>15</CommissionRate>
+      <BuyboxOrder xsi:nil="true" />
+      <AvailableWarehouses />
+      <IsFulfilledByHB>false</IsFulfilledByHB>
+    </Listing>
+    <Listing>
+      <UniqueIdentifier />
+      <HepsiburadaSku>HBV000000JRRT</HepsiburadaSku>
+      <MerchantSku>3509160400141</MerchantSku>
+      <Price>0</Price>
+      <AvailableStock>0</AvailableStock>
+      <DispatchTime>0</DispatchTime>
+      <CargoCompany1>Aras Kargo</CargoCompany1>
+      <CargoCompany2 />
+      <CargoCompany3 />
+      <ShippingAddressLabel>BIRINCIL</ShippingAddressLabel>
+      <ClaimAddressLabel>BIRINCIL</ClaimAddressLabel>
+      <MaximumPurchasableQuantity>0</MaximumPurchasableQuantity>
+      <MinimumPurchasableQuantity>0</MinimumPurchasableQuantity>
+      <Pricings />
+      <IsSalable>false</IsSalable>
+      <CustomizableProperties />
+      <DeactivationReasons>
+        <DeactivationReason>PriceIsLessThanOrEqualToZero</DeactivationReason>
+        <DeactivationReason>StockIsLessThanOrEqualToZero</DeactivationReason>
+        <DeactivationReason>PriceIsLessThanThreshold</DeactivationReason>
+      </DeactivationReasons>
+      <IsSuspended>false</IsSuspended>
+      <IsLocked>false</IsLocked>
+      <LockReasons />
+      <IsFrozen>false</IsFrozen>
+      <CommissionRate>15</CommissionRate>
+      <BuyboxOrder xsi:nil="true" />
+      <AvailableWarehouses />
+      <IsFulfilledByHB>false</IsFulfilledByHB>
+    </Listing>
+    <Listing>
+      <UniqueIdentifier />
+      <HepsiburadaSku>HBV000000LL6F</HepsiburadaSku>
+      <MerchantSku>8711500635235</MerchantSku>
+      <Price>0</Price>
+      <AvailableStock>0</AvailableStock>
+      <DispatchTime>0</DispatchTime>
+      <CargoCompany1>Aras Kargo</CargoCompany1>
+      <CargoCompany2 />
+      <CargoCompany3 />
+      <ShippingAddressLabel>BIRINCIL</ShippingAddressLabel>
+      <ClaimAddressLabel>BIRINCIL</ClaimAddressLabel>
+      <MaximumPurchasableQuantity>0</MaximumPurchasableQuantity>
+      <MinimumPurchasableQuantity>0</MinimumPurchasableQuantity>
+      <Pricings />
+      <IsSalable>false</IsSalable>
+      <CustomizableProperties />
+      <DeactivationReasons>
+        <DeactivationReason>PriceIsLessThanOrEqualToZero</DeactivationReason>
+        <DeactivationReason>StockIsLessThanOrEqualToZero</DeactivationReason>
+        <DeactivationReason>PriceIsLessThanThreshold</DeactivationReason>
+      </DeactivationReasons>
+      <IsSuspended>false</IsSuspended>
+      <IsLocked>false</IsLocked>
+      <LockReasons />
+      <IsFrozen>false</IsFrozen>
+      <CommissionRate>15</CommissionRate>
+      <BuyboxOrder xsi:nil="true" />
+      <AvailableWarehouses />
+      <IsFulfilledByHB>false</IsFulfilledByHB>
+    </Listing>
+    <Listing>
+      <UniqueIdentifier />
+      <HepsiburadaSku>HBV000000RVQW</HepsiburadaSku>
+      <MerchantSku>4040333339107</MerchantSku>
+      <Price>0</Price>
+      <AvailableStock>0</AvailableStock>
+      <DispatchTime>0</DispatchTime>
+      <CargoCompany1>Aras Kargo</CargoCompany1>
+      <CargoCompany2 />
+      <CargoCompany3 />
+      <ShippingAddressLabel>BIRINCIL</ShippingAddressLabel>
+      <ClaimAddressLabel>BIRINCIL</ClaimAddressLabel>
+      <MaximumPurchasableQuantity>0</MaximumPurchasableQuantity>
+      <MinimumPurchasableQuantity>0</MinimumPurchasableQuantity>
+      <Pricings />
+      <IsSalable>false</IsSalable>
+      <CustomizableProperties />
+      <DeactivationReasons>
+        <DeactivationReason>PriceIsLessThanOrEqualToZero</DeactivationReason>
+        <DeactivationReason>StockIsLessThanOrEqualToZero</DeactivationReason>
+        <DeactivationReason>PriceIsLessThanThreshold</DeactivationReason>
+      </DeactivationReasons>
+      <IsSuspended>false</IsSuspended>
+      <IsLocked>false</IsLocked>
+      <LockReasons />
+      <IsFrozen>false</IsFrozen>
+      <CommissionRate>15</CommissionRate>
+      <BuyboxOrder xsi:nil="true" />
+      <AvailableWarehouses />
+      <IsFulfilledByHB>false</IsFulfilledByHB>
+    </Listing>
+    <Listing>
+      <UniqueIdentifier />
+      <HepsiburadaSku>HBV000000SFXH</HepsiburadaSku>
+      <MerchantSku>SDDD2-032G-GAM46</MerchantSku>
+      <Price>0</Price>
+      <AvailableStock>0</AvailableStock>
+      <DispatchTime>0</DispatchTime>
+      <CargoCompany1>Aras Kargo</CargoCompany1>
+      <CargoCompany2 />
+      <CargoCompany3 />
+      <ShippingAddressLabel>BIRINCIL</ShippingAddressLabel>
+      <ClaimAddressLabel>BIRINCIL</ClaimAddressLabel>
+      <MaximumPurchasableQuantity>0</MaximumPurchasableQuantity>
+      <MinimumPurchasableQuantity>0</MinimumPurchasableQuantity>
+      <Pricings />
+      <IsSalable>false</IsSalable>
+      <CustomizableProperties />
+      <DeactivationReasons>
+        <DeactivationReason>PriceIsLessThanOrEqualToZero</DeactivationReason>
+        <DeactivationReason>StockIsLessThanOrEqualToZero</DeactivationReason>
+        <DeactivationReason>PriceIsLessThanThreshold</DeactivationReason>
+      </DeactivationReasons>
+      <IsSuspended>false</IsSuspended>
+      <IsLocked>false</IsLocked>
+      <LockReasons />
+      <IsFrozen>false</IsFrozen>
+      <CommissionRate>15</CommissionRate>
+      <BuyboxOrder xsi:nil="true" />
+      <AvailableWarehouses />
+      <IsFulfilledByHB>false</IsFulfilledByHB>
+    </Listing>
+    <Listing>
+      <UniqueIdentifier />
+      <HepsiburadaSku>HBV000001339O</HepsiburadaSku>
+      <MerchantSku>GONCA 14605 096 6</MerchantSku>
+      <Price>0</Price>
+      <AvailableStock>0</AvailableStock>
+      <DispatchTime>0</DispatchTime>
+      <CargoCompany1>Aras Kargo</CargoCompany1>
+      <CargoCompany2 />
+      <CargoCompany3 />
+      <ShippingAddressLabel>BIRINCIL</ShippingAddressLabel>
+      <ClaimAddressLabel>BIRINCIL</ClaimAddressLabel>
+      <MaximumPurchasableQuantity>0</MaximumPurchasableQuantity>
+      <MinimumPurchasableQuantity>0</MinimumPurchasableQuantity>
+      <Pricings />
+      <IsSalable>false</IsSalable>
+      <CustomizableProperties />
+      <DeactivationReasons>
+        <DeactivationReason>PriceIsLessThanOrEqualToZero</DeactivationReason>
+        <DeactivationReason>StockIsLessThanOrEqualToZero</DeactivationReason>
+        <DeactivationReason>PriceIsLessThanThreshold</DeactivationReason>
+      </DeactivationReasons>
+      <IsSuspended>false</IsSuspended>
+      <IsLocked>false</IsLocked>
+      <LockReasons />
+      <IsFrozen>false</IsFrozen>
+      <CommissionRate>15</CommissionRate>
+      <BuyboxOrder xsi:nil="true" />
+      <AvailableWarehouses />
+      <IsFulfilledByHB>false</IsFulfilledByHB>
+    </Listing>
+    <Listing>
+      <UniqueIdentifier />
+      <HepsiburadaSku>HBV000001ARME</HepsiburadaSku>
+      <MerchantSku>157173~2780783</MerchantSku>
+      <Price>0</Price>
+      <AvailableStock>0</AvailableStock>
+      <DispatchTime>0</DispatchTime>
+      <CargoCompany1>Aras Kargo</CargoCompany1>
+      <CargoCompany2 />
+      <CargoCompany3 />
+      <ShippingAddressLabel>BIRINCIL</ShippingAddressLabel>
+      <ClaimAddressLabel>BIRINCIL</ClaimAddressLabel>
+      <MaximumPurchasableQuantity>0</MaximumPurchasableQuantity>
+      <MinimumPurchasableQuantity>0</MinimumPurchasableQuantity>
+      <Pricings />
+      <IsSalable>false</IsSalable>
+      <CustomizableProperties>
+        <CustomizableProperty>
+          <DisplayName>İsim</DisplayName>
+          <DisplayLength>25</DisplayLength>
+          <DisplayDescription>Ürünün üzerine yazılacak İsim maksimum 25 karakter uzunluğunda olmalıdır.</DisplayDescription>
+        </CustomizableProperty>
+      </CustomizableProperties>
+      <DeactivationReasons>
+        <DeactivationReason>PriceIsLessThanOrEqualToZero</DeactivationReason>
+        <DeactivationReason>StockIsLessThanOrEqualToZero</DeactivationReason>
+        <DeactivationReason>PriceIsLessThanThreshold</DeactivationReason>
+      </DeactivationReasons>
+      <IsSuspended>false</IsSuspended>
+      <IsLocked>false</IsLocked>
+      <LockReasons />
+      <IsFrozen>false</IsFrozen>
+      <CommissionRate>15</CommissionRate>
+      <BuyboxOrder xsi:nil="true" />
+      <AvailableWarehouses />
+      <IsFulfilledByHB>false</IsFulfilledByHB>
+    </Listing>
+    <Listing>
+      <UniqueIdentifier />
+      <HepsiburadaSku>HBV000001ARMF</HepsiburadaSku>
+      <MerchantSku>157173~2780771</MerchantSku>
+      <Price>0</Price>
+      <AvailableStock>0</AvailableStock>
+      <DispatchTime>0</DispatchTime>
+      <CargoCompany1>Aras Kargo</CargoCompany1>
+      <CargoCompany2 />
+      <CargoCompany3 />
+      <ShippingAddressLabel>BIRINCIL</ShippingAddressLabel>
+      <ClaimAddressLabel>BIRINCIL</ClaimAddressLabel>
+      <MaximumPurchasableQuantity>0</MaximumPurchasableQuantity>
+      <MinimumPurchasableQuantity>0</MinimumPurchasableQuantity>
+      <Pricings />
+      <IsSalable>false</IsSalable>
+      <CustomizableProperties>
+        <CustomizableProperty>
+          <DisplayName>İsim</DisplayName>
+          <DisplayLength>25</DisplayLength>
+          <DisplayDescription>Ürünün üzerine yazılacak İsim maksimum 25 karakter uzunluğunda olmalıdır.</DisplayDescription>
+        </CustomizableProperty>
+      </CustomizableProperties>
+      <DeactivationReasons>
+        <DeactivationReason>PriceIsLessThanOrEqualToZero</DeactivationReason>
+        <DeactivationReason>StockIsLessThanOrEqualToZero</DeactivationReason>
+        <DeactivationReason>PriceIsLessThanThreshold</DeactivationReason>
+      </DeactivationReasons>
+      <IsSuspended>false</IsSuspended>
+      <IsLocked>false</IsLocked>
+      <LockReasons />
+      <IsFrozen>false</IsFrozen>
+      <CommissionRate>15</CommissionRate>
+      <BuyboxOrder xsi:nil="true" />
+      <AvailableWarehouses />
+      <IsFulfilledByHB>false</IsFulfilledByHB>
+    </Listing>
+    <Listing>
+      <UniqueIdentifier />
+      <HepsiburadaSku>HBV000001ASC2</HepsiburadaSku>
+      <MerchantSku>1764~3131</MerchantSku>
+      <Price>0</Price>
+      <AvailableStock>0</AvailableStock>
+      <DispatchTime>0</DispatchTime>
+      <CargoCompany1>Aras Kargo</CargoCompany1>
+      <CargoCompany2 />
+      <CargoCompany3 />
+      <ShippingAddressLabel>BIRINCIL</ShippingAddressLabel>
+      <ClaimAddressLabel>BIRINCIL</ClaimAddressLabel>
+      <MaximumPurchasableQuantity>0</MaximumPurchasableQuantity>
+      <MinimumPurchasableQuantity>0</MinimumPurchasableQuantity>
+      <Pricings />
+      <IsSalable>false</IsSalable>
+      <CustomizableProperties>
+        <CustomizableProperty>
+          <DisplayName>İsim</DisplayName>
+          <DisplayLength>25</DisplayLength>
+          <DisplayDescription>Ürünün üzerine yazılacak İsim maksimum 25 karakter uzunluğunda olmalıdır.</DisplayDescription>
+        </CustomizableProperty>
+      </CustomizableProperties>
+      <DeactivationReasons>
+        <DeactivationReason>PriceIsLessThanOrEqualToZero</DeactivationReason>
+        <DeactivationReason>StockIsLessThanOrEqualToZero</DeactivationReason>
+        <DeactivationReason>PriceIsLessThanThreshold</DeactivationReason>
+      </DeactivationReasons>
+      <IsSuspended>false</IsSuspended>
+      <IsLocked>false</IsLocked>
+      <LockReasons />
+      <IsFrozen>false</IsFrozen>
+      <CommissionRate>15</CommissionRate>
+      <BuyboxOrder xsi:nil="true" />
+      <AvailableWarehouses />
+      <IsFulfilledByHB>false</IsFulfilledByHB>
+    </Listing>
+    <Listing>
+      <UniqueIdentifier />
+      <HepsiburadaSku>HBV000001ASC3</HepsiburadaSku>
+      <MerchantSku>1764~3132</MerchantSku>
+      <Price>0</Price>
+      <AvailableStock>0</AvailableStock>
+      <DispatchTime>0</DispatchTime>
+      <CargoCompany1>Aras Kargo</CargoCompany1>
+      <CargoCompany2 />
+      <CargoCompany3 />
+      <ShippingAddressLabel>BIRINCIL</ShippingAddressLabel>
+      <ClaimAddressLabel>BIRINCIL</ClaimAddressLabel>
+      <MaximumPurchasableQuantity>0</MaximumPurchasableQuantity>
+      <MinimumPurchasableQuantity>0</MinimumPurchasableQuantity>
+      <Pricings />
+      <IsSalable>false</IsSalable>
+      <CustomizableProperties>
+        <CustomizableProperty>
+          <DisplayName>İsim</DisplayName>
+          <DisplayLength>25</DisplayLength>
+          <DisplayDescription>Ürünün üzerine yazılacak İsim maksimum 25 karakter uzunluğunda olmalıdır.</DisplayDescription>
+        </CustomizableProperty>
+      </CustomizableProperties>
+      <DeactivationReasons>
+        <DeactivationReason>PriceIsLessThanOrEqualToZero</DeactivationReason>
+        <DeactivationReason>StockIsLessThanOrEqualToZero</DeactivationReason>
+        <DeactivationReason>PriceIsLessThanThreshold</DeactivationReason>
+      </DeactivationReasons>
+      <IsSuspended>false</IsSuspended>
+      <IsLocked>false</IsLocked>
+      <LockReasons />
+      <IsFrozen>false</IsFrozen>
+      <CommissionRate>15</CommissionRate>
+      <BuyboxOrder xsi:nil="true" />
+      <AvailableWarehouses />
+      <IsFulfilledByHB>false</IsFulfilledByHB>
+    </Listing>
+    <Listing>
+      <UniqueIdentifier />
+      <HepsiburadaSku>HBV000001B4CK</HepsiburadaSku>
+      <MerchantSku>238907</MerchantSku>
+      <Price>0</Price>
+      <AvailableStock>0</AvailableStock>
+      <DispatchTime>0</DispatchTime>
+      <CargoCompany1>Aras Kargo</CargoCompany1>
+      <CargoCompany2 />
+      <CargoCompany3 />
+      <ShippingAddressLabel>BIRINCIL</ShippingAddressLabel>
+      <ClaimAddressLabel>BIRINCIL</ClaimAddressLabel>
+      <MaximumPurchasableQuantity>0</MaximumPurchasableQuantity>
+      <MinimumPurchasableQuantity>0</MinimumPurchasableQuantity>
+      <Pricings />
+      <IsSalable>false</IsSalable>
+      <CustomizableProperties>
+        <CustomizableProperty>
+          <DisplayName>İsim</DisplayName>
+          <DisplayLength>25</DisplayLength>
+          <DisplayDescription>Ürünün üzerine yazılacak İsim maksimum 25 karakter uzunluğunda olmalıdır.</DisplayDescription>
+        </CustomizableProperty>
+      </CustomizableProperties>
+      <DeactivationReasons>
+        <DeactivationReason>PriceIsLessThanOrEqualToZero</DeactivationReason>
+        <DeactivationReason>StockIsLessThanOrEqualToZero</DeactivationReason>
+        <DeactivationReason>PriceIsLessThanThreshold</DeactivationReason>
+      </DeactivationReasons>
+      <IsSuspended>false</IsSuspended>
+      <IsLocked>false</IsLocked>
+      <LockReasons />
+      <IsFrozen>false</IsFrozen>
+      <CommissionRate>15</CommissionRate>
+      <BuyboxOrder xsi:nil="true" />
+      <AvailableWarehouses />
+      <IsFulfilledByHB>false</IsFulfilledByHB>
+    </Listing>
+    <Listing>
+      <UniqueIdentifier />
+      <HepsiburadaSku>HBV000003K29J</HepsiburadaSku>
+      <MerchantSku>KUTU123</MerchantSku>
+      <Price>0</Price>
+      <AvailableStock>0</AvailableStock>
+      <DispatchTime>0</DispatchTime>
+      <CargoCompany1>Aras Kargo</CargoCompany1>
+      <CargoCompany2 />
+      <CargoCompany3 />
+      <ShippingAddressLabel>BIRINCIL</ShippingAddressLabel>
+      <ClaimAddressLabel>BIRINCIL</ClaimAddressLabel>
+      <MaximumPurchasableQuantity>0</MaximumPurchasableQuantity>
+      <MinimumPurchasableQuantity>0</MinimumPurchasableQuantity>
+      <Pricings />
+      <IsSalable>false</IsSalable>
+      <CustomizableProperties />
+      <DeactivationReasons>
+        <DeactivationReason>PriceIsLessThanOrEqualToZero</DeactivationReason>
+        <DeactivationReason>StockIsLessThanOrEqualToZero</DeactivationReason>
+        <DeactivationReason>PriceIsLessThanThreshold</DeactivationReason>
+      </DeactivationReasons>
+      <IsSuspended>false</IsSuspended>
+      <IsLocked>false</IsLocked>
+      <LockReasons />
+      <IsFrozen>false</IsFrozen>
+      <CommissionRate>15</CommissionRate>
+      <BuyboxOrder xsi:nil="true" />
+      <AvailableWarehouses />
+      <IsFulfilledByHB>false</IsFulfilledByHB>
+    </Listing>
+    <Listing>
+      <UniqueIdentifier />
+      <HepsiburadaSku>HBV0000060U33</HepsiburadaSku>
+      <MerchantSku>MOUSE123</MerchantSku>
+      <Price>0</Price>
+      <AvailableStock>0</AvailableStock>
+      <DispatchTime>0</DispatchTime>
+      <CargoCompany1>Aras Kargo</CargoCompany1>
+      <CargoCompany2 />
+      <CargoCompany3 />
+      <ShippingAddressLabel>BIRINCIL</ShippingAddressLabel>
+      <ClaimAddressLabel>BIRINCIL</ClaimAddressLabel>
+      <MaximumPurchasableQuantity>0</MaximumPurchasableQuantity>
+      <MinimumPurchasableQuantity>0</MinimumPurchasableQuantity>
+      <Pricings />
+      <IsSalable>false</IsSalable>
+      <CustomizableProperties />
+      <DeactivationReasons>
+        <DeactivationReason>PriceIsLessThanOrEqualToZero</DeactivationReason>
+        <DeactivationReason>StockIsLessThanOrEqualToZero</DeactivationReason>
+        <DeactivationReason>PriceIsLessThanThreshold</DeactivationReason>
+      </DeactivationReasons>
+      <IsSuspended>false</IsSuspended>
+      <IsLocked>false</IsLocked>
+      <LockReasons />
+      <IsFrozen>false</IsFrozen>
+      <CommissionRate>15</CommissionRate>
+      <BuyboxOrder xsi:nil="true" />
+      <AvailableWarehouses />
+      <IsFulfilledByHB>false</IsFulfilledByHB>
+    </Listing>
+    <Listing>
+      <UniqueIdentifier />
+      <HepsiburadaSku>SPORTHE634609-XL</HepsiburadaSku>
+      <MerchantSku>SPORTHE634609-XL</MerchantSku>
+      <Price>0</Price>
+      <AvailableStock>0</AvailableStock>
+      <DispatchTime>0</DispatchTime>
+      <CargoCompany1>Aras Kargo</CargoCompany1>
+      <CargoCompany2 />
+      <CargoCompany3 />
+      <ShippingAddressLabel>BIRINCIL</ShippingAddressLabel>
+      <ClaimAddressLabel>BIRINCIL</ClaimAddressLabel>
+      <MaximumPurchasableQuantity>0</MaximumPurchasableQuantity>
+      <MinimumPurchasableQuantity>0</MinimumPurchasableQuantity>
+      <Pricings />
+      <IsSalable>false</IsSalable>
+      <CustomizableProperties />
+      <DeactivationReasons>
+        <DeactivationReason>PriceIsLessThanOrEqualToZero</DeactivationReason>
+        <DeactivationReason>StockIsLessThanOrEqualToZero</DeactivationReason>
+        <DeactivationReason>PriceIsLessThanThreshold</DeactivationReason>
+      </DeactivationReasons>
+      <IsSuspended>false</IsSuspended>
+      <IsLocked>false</IsLocked>
+      <LockReasons />
+      <IsFrozen>false</IsFrozen>
+      <CommissionRate>15</CommissionRate>
+      <BuyboxOrder xsi:nil="true" />
+      <AvailableWarehouses />
+      <IsFulfilledByHB>false</IsFulfilledByHB>
+    </Listing>
+    <Listing>
+      <UniqueIdentifier />
+      <HepsiburadaSku>SPORVIC72-B</HepsiburadaSku>
+      <MerchantSku>25706</MerchantSku>
+      <Price>0</Price>
+      <AvailableStock>0</AvailableStock>
+      <DispatchTime>0</DispatchTime>
+      <CargoCompany1>Aras Kargo</CargoCompany1>
+      <CargoCompany2 />
+      <CargoCompany3 />
+      <ShippingAddressLabel>BIRINCIL</ShippingAddressLabel>
+      <ClaimAddressLabel>BIRINCIL</ClaimAddressLabel>
+      <MaximumPurchasableQuantity>0</MaximumPurchasableQuantity>
+      <MinimumPurchasableQuantity>0</MinimumPurchasableQuantity>
+      <Pricings />
+      <IsSalable>false</IsSalable>
+      <CustomizableProperties />
+      <DeactivationReasons>
+        <DeactivationReason>PriceIsLessThanOrEqualToZero</DeactivationReason>
+        <DeactivationReason>StockIsLessThanOrEqualToZero</DeactivationReason>
+        <DeactivationReason>PriceIsLessThanThreshold</DeactivationReason>
+      </DeactivationReasons>
+      <IsSuspended>false</IsSuspended>
+      <IsLocked>false</IsLocked>
+      <LockReasons />
+      <IsFrozen>false</IsFrozen>
+      <CommissionRate>15</CommissionRate>
+      <BuyboxOrder xsi:nil="true" />
+      <AvailableWarehouses />
+      <IsFulfilledByHB>false</IsFulfilledByHB>
+    </Listing>
+    <Listing>
+      <UniqueIdentifier />
+      <HepsiburadaSku>SPORVIC72-K</HepsiburadaSku>
+      <MerchantSku>25702</MerchantSku>
+      <Price>0</Price>
+      <AvailableStock>0</AvailableStock>
+      <DispatchTime>0</DispatchTime>
+      <CargoCompany1>Aras Kargo</CargoCompany1>
+      <CargoCompany2 />
+      <CargoCompany3 />
+      <ShippingAddressLabel>BIRINCIL</ShippingAddressLabel>
+      <ClaimAddressLabel>BIRINCIL</ClaimAddressLabel>
+      <MaximumPurchasableQuantity>0</MaximumPurchasableQuantity>
+      <MinimumPurchasableQuantity>0</MinimumPurchasableQuantity>
+      <Pricings />
+      <IsSalable>false</IsSalable>
+      <CustomizableProperties />
+      <DeactivationReasons>
+        <DeactivationReason>PriceIsLessThanOrEqualToZero</DeactivationReason>
+        <DeactivationReason>StockIsLessThanOrEqualToZero</DeactivationReason>
+        <DeactivationReason>PriceIsLessThanThreshold</DeactivationReason>
+      </DeactivationReasons>
+      <IsSuspended>false</IsSuspended>
+      <IsLocked>false</IsLocked>
+      <LockReasons />
+      <IsFrozen>false</IsFrozen>
+      <CommissionRate>15</CommissionRate>
+      <BuyboxOrder xsi:nil="true" />
+      <AvailableWarehouses />
+      <IsFulfilledByHB>false</IsFulfilledByHB>
+    </Listing>
+    <Listing>
+      <UniqueIdentifier />
+      <HepsiburadaSku>SPORVIC72-M</HepsiburadaSku>
+      <MerchantSku>25703</MerchantSku>
+      <Price>0</Price>
+      <AvailableStock>0</AvailableStock>
+      <DispatchTime>0</DispatchTime>
+      <CargoCompany1>Aras Kargo</CargoCompany1>
+      <CargoCompany2 />
+      <CargoCompany3 />
+      <ShippingAddressLabel>BIRINCIL</ShippingAddressLabel>
+      <ClaimAddressLabel>BIRINCIL</ClaimAddressLabel>
+      <MaximumPurchasableQuantity>0</MaximumPurchasableQuantity>
+      <MinimumPurchasableQuantity>0</MinimumPurchasableQuantity>
+      <Pricings />
+      <IsSalable>false</IsSalable>
+      <CustomizableProperties />
+      <DeactivationReasons>
+        <DeactivationReason>PriceIsLessThanOrEqualToZero</DeactivationReason>
+        <DeactivationReason>StockIsLessThanOrEqualToZero</DeactivationReason>
+        <DeactivationReason>PriceIsLessThanThreshold</DeactivationReason>
+      </DeactivationReasons>
+      <IsSuspended>false</IsSuspended>
+      <IsLocked>false</IsLocked>
+      <LockReasons />
+      <IsFrozen>false</IsFrozen>
+      <CommissionRate>15</CommissionRate>
+      <BuyboxOrder xsi:nil="true" />
+      <AvailableWarehouses />
+      <IsFulfilledByHB>false</IsFulfilledByHB>
+    </Listing>
+    <Listing>
+      <UniqueIdentifier />
+      <HepsiburadaSku>SPORVIC72-S</HepsiburadaSku>
+      <MerchantSku>25704</MerchantSku>
+      <Price>0</Price>
+      <AvailableStock>0</AvailableStock>
+      <DispatchTime>0</DispatchTime>
+      <CargoCompany1>Aras Kargo</CargoCompany1>
+      <CargoCompany2 />
+      <CargoCompany3 />
+      <ShippingAddressLabel>BIRINCIL</ShippingAddressLabel>
+      <ClaimAddressLabel>BIRINCIL</ClaimAddressLabel>
+      <MaximumPurchasableQuantity>0</MaximumPurchasableQuantity>
+      <MinimumPurchasableQuantity>0</MinimumPurchasableQuantity>
+      <Pricings />
+      <IsSalable>false</IsSalable>
+      <CustomizableProperties />
+      <DeactivationReasons>
+        <DeactivationReason>PriceIsLessThanOrEqualToZero</DeactivationReason>
+        <DeactivationReason>StockIsLessThanOrEqualToZero</DeactivationReason>
+        <DeactivationReason>PriceIsLessThanThreshold</DeactivationReason>
+      </DeactivationReasons>
+      <IsSuspended>false</IsSuspended>
+      <IsLocked>false</IsLocked>
+      <LockReasons />
+      <IsFrozen>false</IsFrozen>
+      <CommissionRate>15</CommissionRate>
+      <BuyboxOrder xsi:nil="true" />
+      <AvailableWarehouses />
+      <IsFulfilledByHB>false</IsFulfilledByHB>
+    </Listing>
+    <Listing>
+      <UniqueIdentifier />
+      <HepsiburadaSku>SPORVIC72-SA</HepsiburadaSku>
+      <MerchantSku>25707</MerchantSku>
+      <Price>0</Price>
+      <AvailableStock>0</AvailableStock>
+      <DispatchTime>0</DispatchTime>
+      <CargoCompany1>Aras Kargo</CargoCompany1>
+      <CargoCompany2 />
+      <CargoCompany3 />
+      <ShippingAddressLabel>BIRINCIL</ShippingAddressLabel>
+      <ClaimAddressLabel>BIRINCIL</ClaimAddressLabel>
+      <MaximumPurchasableQuantity>0</MaximumPurchasableQuantity>
+      <MinimumPurchasableQuantity>0</MinimumPurchasableQuantity>
+      <Pricings />
+      <IsSalable>false</IsSalable>
+      <CustomizableProperties />
+      <DeactivationReasons>
+        <DeactivationReason>PriceIsLessThanOrEqualToZero</DeactivationReason>
+        <DeactivationReason>StockIsLessThanOrEqualToZero</DeactivationReason>
+        <DeactivationReason>PriceIsLessThanThreshold</DeactivationReason>
+      </DeactivationReasons>
+      <IsSuspended>false</IsSuspended>
+      <IsLocked>false</IsLocked>
+      <LockReasons />
+      <IsFrozen>false</IsFrozen>
+      <CommissionRate>15</CommissionRate>
+      <BuyboxOrder xsi:nil="true" />
+      <AvailableWarehouses />
+      <IsFulfilledByHB>false</IsFulfilledByHB>
+    </Listing>
+    <Listing>
+      <UniqueIdentifier />
+      <HepsiburadaSku>SPORVIC72-Y</HepsiburadaSku>
+      <MerchantSku>25705</MerchantSku>
+      <Price>0</Price>
+      <AvailableStock>0</AvailableStock>
+      <DispatchTime>0</DispatchTime>
+      <CargoCompany1>Aras Kargo</CargoCompany1>
+      <CargoCompany2 />
+      <CargoCompany3 />
+      <ShippingAddressLabel>BIRINCIL</ShippingAddressLabel>
+      <ClaimAddressLabel>BIRINCIL</ClaimAddressLabel>
+      <MaximumPurchasableQuantity>0</MaximumPurchasableQuantity>
+      <MinimumPurchasableQuantity>0</MinimumPurchasableQuantity>
+      <Pricings />
+      <IsSalable>false</IsSalable>
+      <CustomizableProperties />
+      <DeactivationReasons>
+        <DeactivationReason>PriceIsLessThanOrEqualToZero</DeactivationReason>
+        <DeactivationReason>StockIsLessThanOrEqualToZero</DeactivationReason>
+        <DeactivationReason>PriceIsLessThanThreshold</DeactivationReason>
+      </DeactivationReasons>
+      <IsSuspended>false</IsSuspended>
+      <IsLocked>false</IsLocked>
+      <LockReasons />
+      <IsFrozen>false</IsFrozen>
+      <CommissionRate>15</CommissionRate>
+      <BuyboxOrder xsi:nil="true" />
+      <AvailableWarehouses />
+      <IsFulfilledByHB>false</IsFulfilledByHB>
+    </Listing>
+    <Listing>
+      <UniqueIdentifier />
+      <HepsiburadaSku>TELKILMAVM1262-TU</HepsiburadaSku>
+      <MerchantSku>8690000004010</MerchantSku>
+      <Price>0</Price>
+      <AvailableStock>0</AvailableStock>
+      <DispatchTime>0</DispatchTime>
+      <CargoCompany1>Aras Kargo</CargoCompany1>
+      <CargoCompany2 />
+      <CargoCompany3 />
+      <ShippingAddressLabel>BIRINCIL</ShippingAddressLabel>
+      <ClaimAddressLabel>BIRINCIL</ClaimAddressLabel>
+      <MaximumPurchasableQuantity>0</MaximumPurchasableQuantity>
+      <MinimumPurchasableQuantity>0</MinimumPurchasableQuantity>
+      <Pricings />
+      <IsSalable>false</IsSalable>
+      <CustomizableProperties />
+      <DeactivationReasons>
+        <DeactivationReason>PriceIsLessThanOrEqualToZero</DeactivationReason>
+        <DeactivationReason>StockIsLessThanOrEqualToZero</DeactivationReason>
+        <DeactivationReason>PriceIsLessThanThreshold</DeactivationReason>
+      </DeactivationReasons>
+      <IsSuspended>false</IsSuspended>
+      <IsLocked>false</IsLocked>
+      <LockReasons />
+      <IsFrozen>false</IsFrozen>
+      <CommissionRate>15</CommissionRate>
+      <BuyboxOrder xsi:nil="true" />
+      <AvailableWarehouses />
+      <IsFulfilledByHB>false</IsFulfilledByHB>
+    </Listing>
+    <Listing>
+      <UniqueIdentifier />
+      <HepsiburadaSku>ZYHPCOCACCOL055</HepsiburadaSku>
+      <MerchantSku>COLA123</MerchantSku>
+      <Price>0</Price>
+      <AvailableStock>0</AvailableStock>
+      <DispatchTime>0</DispatchTime>
+      <CargoCompany1>Aras Kargo</CargoCompany1>
+      <CargoCompany2 />
+      <CargoCompany3 />
+      <ShippingAddressLabel>BIRINCIL</ShippingAddressLabel>
+      <ClaimAddressLabel>BIRINCIL</ClaimAddressLabel>
+      <MaximumPurchasableQuantity>0</MaximumPurchasableQuantity>
+      <MinimumPurchasableQuantity>0</MinimumPurchasableQuantity>
+      <Pricings />
+      <IsSalable>false</IsSalable>
+      <CustomizableProperties />
+      <DeactivationReasons>
+        <DeactivationReason>PriceIsLessThanOrEqualToZero</DeactivationReason>
+        <DeactivationReason>StockIsLessThanOrEqualToZero</DeactivationReason>
+        <DeactivationReason>PriceIsLessThanThreshold</DeactivationReason>
+      </DeactivationReasons>
+      <IsSuspended>false</IsSuspended>
+      <IsLocked>false</IsLocked>
+      <LockReasons />
+      <IsFrozen>false</IsFrozen>
+      <CommissionRate>15</CommissionRate>
+      <BuyboxOrder xsi:nil="true" />
+      <AvailableWarehouses />
+      <IsFulfilledByHB>false</IsFulfilledByHB>
+    </Listing>
+  </Listings>
+</Result>

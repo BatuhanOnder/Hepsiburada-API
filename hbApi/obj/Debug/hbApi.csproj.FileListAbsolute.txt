@@ -1,0 +1,14 @@
+C:\Users\E-ticaret_Batuhan\source\repos\hbApi\hbApi\bin\Debug\hbApi.exe.config
+C:\Users\E-ticaret_Batuhan\source\repos\hbApi\hbApi\bin\Debug\hbApi.exe
+C:\Users\E-ticaret_Batuhan\source\repos\hbApi\hbApi\bin\Debug\hbApi.pdb
+C:\Users\E-ticaret_Batuhan\source\repos\hbApi\hbApi\bin\Debug\RestSharp.dll
+C:\Users\E-ticaret_Batuhan\source\repos\hbApi\hbApi\bin\Debug\RestSharp.xml
+C:\Users\E-ticaret_Batuhan\source\repos\hbApi\hbApi\obj\Debug\hbApi.csprojAssemblyReference.cache
+C:\Users\E-ticaret_Batuhan\source\repos\hbApi\hbApi\obj\Debug\hbApi.csproj.CoreCompileInputs.cache
+C:\Users\E-ticaret_Batuhan\source\repos\hbApi\hbApi\obj\Debug\hbApi.csproj.CopyComplete
+C:\Users\E-ticaret_Batuhan\source\repos\hbApi\hbApi\obj\Debug\hbApi.exe
+C:\Users\E-ticaret_Batuhan\source\repos\hbApi\hbApi\obj\Debug\hbApi.pdb
+C:\Users\E-ticaret_Batuhan\source\repos\hbApi\hbApi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\E-ticaret_Batuhan\source\repos\hbApi\hbApi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\E-ticaret_Batuhan\source\repos\hbApi\hbApi\bin\Debug\IronXL.dll
+C:\Users\E-ticaret_Batuhan\source\repos\hbApi\hbApi\bin\Debug\IronXL.xml
